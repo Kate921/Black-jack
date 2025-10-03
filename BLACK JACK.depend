@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1748283942 source:c:\users\dan\documents\c++\black jack\main.cpp
-	<iostream>
-	<time.h>
-	<string>
-	<math.h>
-	<windows.h>
-	<stdlib.h>
-
